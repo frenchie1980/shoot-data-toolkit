@@ -2,6 +2,7 @@
 
 A kit of tools for sorting and organising VFX shoot data
 
+Just a placeholder repo for now
 
 <br>
 
